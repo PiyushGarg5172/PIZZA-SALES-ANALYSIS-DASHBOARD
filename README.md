@@ -221,5 +221,7 @@ B.Tech — Computer Engineering
 Thapar Institute of Engineering & Technology
 
 ---
+screenshots:
+dashboard-https://github.com/PiyushGarg5172/PIZZA-SALES-ANALYSIS-DASHBOARD/blob/main/image.png
 
 ⭐ If you found this project useful, consider giving the repository a star!
