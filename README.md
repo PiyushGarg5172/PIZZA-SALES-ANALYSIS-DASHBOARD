@@ -10,7 +10,7 @@ The project transforms raw pizza sales data into an interactive dashboard that h
 
 ### Executive Dashboard
 
-![Pizza Sales Dashboard](screenshots/dashboard.png)
+![Pizza Sales Dashboard]([screenshots/dashboard.](https://github.com/PiyushGarg5172/PIZZA-SALES-ANALYSIS-DASHBOARD/blob/main/dashboard%20screenshot%201-1.png)
 
 > *Interactive Power BI dashboard showing key sales KPIs, trends, and product-level analysis.*
 
@@ -216,11 +216,11 @@ These insights can support decisions related to **inventory planning, promotions
 
 ## 📸 Dashboard Screenshots
 
-### Main Dashboard
+### Main Dashboard 1.
 
-![Main Dashboard](screenshots/dashboard.png)
+![Main Dashboard]((https://github.com/PiyushGarg5172/PIZZA-SALES-ANALYSIS-DASHBOARD/blob/main/dashboard%20screenshot%201-1.png))
 
-### Sales Analysis
+### Main Dashbaord 2,
 
 ![Sales Analysis](screenshots/sales_analysis.png)
 
