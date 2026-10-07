@@ -1,4 +1,4 @@
-<img width="2200" height="1700" alt="dashboard screenshot 1-1" src="https://github.com/user-attachments/assets/2c722c96-9dc5-4ee7-9633-3165d0aac01f" /># 🍕 Pizza Sales Analysis Dashboard
+# 🍕 Pizza Sales Analysis Dashboard
 
 An interactive **Power BI Business Intelligence Dashboard** designed to analyze pizza sales performance, customer ordering patterns, product performance, and revenue trends.
 
