@@ -225,7 +225,7 @@ These insights can support decisions related to **inventory planning, promotions
 
 ### Product Analysis
 
-![Product Analysis](screenshots/product_analysis.png)
+![Product Analysis]([screenshots/product_analysis.png](https://github.com/PiyushGarg5172/PIZZA-SALES-ANALYSIS-DASHBOARD/blob/main/dashboard%20screenshot%201-1.png?raw=true))
 
 ---
 
