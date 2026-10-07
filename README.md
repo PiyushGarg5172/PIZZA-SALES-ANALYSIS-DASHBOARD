@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis Dashboard
+<img width="2200" height="1700" alt="dashboard screenshot 1-1" src="https://github.com/user-attachments/assets/2c722c96-9dc5-4ee7-9633-3165d0aac01f" /># 🍕 Pizza Sales Analysis Dashboard
 
 An interactive **Power BI Business Intelligence Dashboard** designed to analyze pizza sales performance, customer ordering patterns, product performance, and revenue trends.
 
@@ -216,16 +216,17 @@ These insights can support decisions related to **inventory planning, promotions
 ## 📸 Dashboard Screenshots
 
 ### Main Dashboard 1.
+<img width="2200" height="1700" alt="dashboard screenshot 1-1" src="https://github.com/user-attachments/assets/6a334540-0fc8-477f-94ae-20cedd3dae15" />
 
-![Main Dashboard]((https://github.com/PiyushGarg5172/PIZZA-SALES-ANALYSIS-DASHBOARD/blob/main/dashboard%20screenshot%201-1.png))
 
 ### Main Dashbaord 2,
 
-![Sales Analysis](dashboard screenshot 1-1.png)
+<img width="2200" height="1700" alt="Dashboard screenshot 2-1" src="https://github.com/user-attachments/assets/60f33f84-08e4-4b06-a337-9b4cc831c3e6" />
 
-### Product Analysis
 
-![Product Analysis]([screenshots/product_analysis.png](https://github.com/PiyushGarg5172/PIZZA-SALES-ANALYSIS-DASHBOARD/blob/main/dashboard%20screenshot%201-1.png?raw=true))
+
+
+
 
 ---
 
