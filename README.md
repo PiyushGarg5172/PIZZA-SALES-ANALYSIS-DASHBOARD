@@ -222,6 +222,7 @@ Thapar Institute of Engineering & Technology
 
 ---
 screenshots:
-dashboard-(https://github.com/PiyushGarg5172/PIZZA-SALES-ANALYSIS-DASHBOARD/blob/main/dashboard%20screenshot%201.pdf)
+dashboard 1.-(https://github.com/PiyushGarg5172/PIZZA-SALES-ANALYSIS-DASHBOARD/blob/main/dashboard%20screenshot%201.pdf)
+2.https://github.com/PiyushGarg5172/PIZZA-SALES-ANALYSIS-DASHBOARD/blob/main/Dashboard%20screenshot%202.pdf
 
 ⭐ If you found this project useful, consider giving the repository a star!
