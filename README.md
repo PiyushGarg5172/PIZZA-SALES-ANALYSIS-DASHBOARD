@@ -3,7 +3,6 @@
 An interactive **Power BI Business Intelligence Dashboard** designed to analyze pizza sales performance, customer ordering patterns, product performance, and revenue trends.
 
 The project transforms raw pizza sales data into an interactive dashboard that helps identify **top-performing products, sales trends, customer preferences, and key business KPIs**.
-<img width="2200" height="1700" alt="dashboard screenshot 1-1" src="https://github.com/user-attachments/assets/80d67ba8-ab48-4c52-a0c3-645bcd07267f" />
 
 ---
 
@@ -11,8 +10,8 @@ The project transforms raw pizza sales data into an interactive dashboard that h
 
 ### Executive Dashboard
 
-![Pizza Sales Dashboard]([screenshots/dashboard.](Dashboard screenshot 2-1.png)
-> *Interactive Power BI dashboard showing key sales KPIs, trends, and product-level analysis.*
+<img width="2200" height="1700" alt="dashboard screenshot 1-1" src="https://github.com/user-attachments/assets/80d67ba8-ab48-4c52-a0c3-645bcd07267f" />
+
 
 ---
 
