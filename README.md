@@ -221,7 +221,7 @@ These insights can support decisions related to **inventory planning, promotions
 
 ### Main Dashbaord 2,
 
-![Sales Analysis](screenshots/sales_analysis.png)
+![Sales Analysis](dashboard screenshot 1-1.png)
 
 ### Product Analysis
 
